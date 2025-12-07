@@ -47,17 +47,19 @@ npm run deploy
 
 This will:
 - Build your project
-- Create/update the `gh-pages` branch
-- Push the built files to GitHub
+- Commit the `dist` folder to the `main` branch
+- Push to GitHub
 
 ## Step 5: Enable GitHub Pages
 
 1. Go to your repository on GitHub
 2. Click **Settings** → **Pages**
 3. Under **Source**, select:
-   - **Branch**: `gh-pages`
-   - **Folder**: `/ (root)`
+   - **Branch**: `main`
+   - **Folder**: `/dist`
 4. Click **Save**
+
+**Note**: For user pages (`username.github.io`), you can also use `/ (root)` if you move index.html to the root.
 
 ## Step 6: Access Your Site
 

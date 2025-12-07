@@ -8,9 +8,15 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-# dist - allowed for GitHub Pages deployment from main branch
-# dist-ssr
+dist
+dist-ssr
 *.local
+
+# Allow built files in root for GitHub Pages
+!index.html
+!assets/
+!images/
+!vite.svg
 
 # Editor directories and files
 .vscode/*
