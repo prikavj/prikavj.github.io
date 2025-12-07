@@ -59,7 +59,7 @@ export default function Home() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="text-xl md:text-2xl text-gray-300 mb-8"
         >
-          Applied AI Engineer • HRI Researcher • Former Software Engineer @ HPE
+          Applied AI Engineer • Software Engineer • HRI Researcher
         </motion.p>
 
         <motion.div
