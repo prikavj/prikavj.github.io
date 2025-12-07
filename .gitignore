@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-# dist - commented out for GitHub Pages deployment from main branch
+# dist - allowed for GitHub Pages deployment from main branch
 # dist-ssr
 *.local
 
