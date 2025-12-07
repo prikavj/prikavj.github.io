@@ -5,6 +5,7 @@ const navItems = [
   { name: 'Home', id: 'home' },
   { name: 'About', id: 'about' },
   { name: 'Experience', id: 'experience' },
+  { name: 'Education', id: 'education' },
   { name: 'Research', id: 'research' },
   { name: 'Projects', id: 'projects' },
   { name: 'Contact', id: 'contact' },

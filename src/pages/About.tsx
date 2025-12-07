@@ -3,7 +3,6 @@ import { useState } from 'react';
 import Card from '../components/Card';
 import AnimatedBlob from '../components/AnimatedBlob';
 import aboutData from '../data/about.json';
-import educationData from '../data/education.json';
 
 export default function About() {
   const [data] = useState(aboutData);
@@ -76,45 +75,6 @@ export default function About() {
                       {skill}
                     </span>
                   ))}
-                </div>
-              </Card>
-            </motion.div>
-          ))}
-        </div>
-
-        <motion.h2
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.6 }}
-          className="text-3xl font-bold mb-6 mt-12 gradient-text"
-        >
-          Education
-        </motion.h2>
-
-        <div className="space-y-4">
-          {educationData.map((edu, index) => (
-            <motion.div
-              key={edu.id}
-              initial={{ opacity: 0, x: -30 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.5, delay: 0.7 + index * 0.1 }}
-            >
-              <Card hoverEffect="glow">
-                <div className="flex flex-col md:flex-row md:items-start md:justify-between gap-2">
-                  <div className="flex-1">
-                    <h3 className="text-xl font-bold text-white mb-1">{edu.degree}</h3>
-                    <p className="text-lg text-cyan-400 mb-1">{edu.institution}</p>
-                    <p className="text-gray-400 text-sm mb-2">{edu.location}</p>
-                    {edu.grade && (
-                      <p className="text-gray-300 text-sm">
-                        <span className="font-semibold text-cyan-400">Grade: </span>
-                        {edu.grade}
-                      </p>
-                    )}
-                  </div>
-                  <span className="px-4 py-2 bg-gradient-to-r from-sky-500/30 to-cyan-500/30 rounded-full text-sm font-semibold whitespace-nowrap">
-                    {edu.period}
-                  </span>
                 </div>
               </Card>
             </motion.div>

@@ -17,7 +17,7 @@
     "position": "Applied AI Program Design & Delivery Intern",
     "period": "Jan 2025 – Jul 2025",
     "location": "Toronto, ON",
-    "image": "/images/companies/uwaterloo.jpeg",
+    "image": "/images/companies/vector-institute.png",
     "bullets": [
       "Developed Retrieval-Augmented Generation (RAG) pipelines using the Weaviate vector database, reducing retrieval latency by 20%",
       "Built agentic AI workflows using the ReAct framework for scalable PoC prototyping during Vector AI bootcamps",
@@ -48,6 +48,7 @@
     "position": "Software Engineer II",
     "period": "Apr 2021 – Dec 2022",
     "location": "Santa Clara, CA",
+    "image": "/images/companies/hpe-networking.png",
     "bullets": [
       "Led 5 major feature releases for ClearPass Policy Manager (CPPM), enhancing modules like Certificate Store, Role Mappings, Agentless OnGuard, and Compliance Reports",
       "Implemented security improvements reducing vulnerabilities by 25% (e.g., mitigating SQL and CLI injection)",
@@ -62,6 +63,7 @@
     "position": "Software Engineer I",
     "period": "Jul 2018 – Apr 2021",
     "location": "Santa Clara, CA",
+    "image": "/images/companies/hpe-networking.png",
     "bullets": [
       "Delivered 7 production features and resolved 160+ bugs, improving stability for 3,500+ enterprise clients",
       "Built and published 10+ REST APIs for CPPM, later showcased by the CEO",
@@ -75,6 +77,7 @@
     "position": "Software Engineering Intern",
     "period": "Jan 2018 – Jun 2018",
     "location": "Santa Clara, CA",
+    "image": "/images/companies/hpe-networking.png",
     "bullets": [
       "Built a Log Analyzer and Parser tool using Python, GoLang, and React",
       "Integrated into Automation Suite and reduced debugging time by 20%"
@@ -86,6 +89,7 @@
     "position": "Cybersecurity Intern",
     "period": "Jun 2016 – Jul 2016",
     "location": "India",
+    "image": "/images/companies/wipro.png",
     "bullets": [
       "Collected and analyzed logs using ELK for cybersecurity applications"
     ]

@@ -1,7 +1,9 @@
 import Navigation from './components/Navigation';
 import CursorBackground from './components/CursorBackground';
+import TechBackground from './components/TechBackground';
 import Home from './pages/Home';
 import About from './pages/About';
+import Education from './pages/Education';
 import Experience from './pages/Experience';
 import Research from './pages/Research';
 import Projects from './pages/Projects';
@@ -10,11 +12,13 @@ import Contact from './pages/Contact';
 function App() {
   return (
     <div className="min-h-screen relative">
+      <TechBackground />
       <CursorBackground />
       <Navigation />
       <Home />
       <About />
       <Experience />
+      <Education />
       <Research />
       <Projects />
       <Contact />

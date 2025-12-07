@@ -5,7 +5,8 @@
     "institution": "University of Waterloo",
     "period": "2023–2025",
     "location": "Waterloo, Ontario, Canada",
-    "grade": "93.8/100"
+    "grade": "93.8/100",
+    "image": "/images/companies/uwaterloo.jpeg"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "institution": "R.V. College of Engineering",
     "period": "2014–2018",
     "location": "Bangalore, India",
-    "grade": "9.03/10"
+    "grade": "9.03/10",
+    "image": "/images/companies/rvce.webp"
   }
 ]
 
