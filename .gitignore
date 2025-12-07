@@ -8,8 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
-dist-ssr
+# dist - commented out for GitHub Pages deployment from main branch
+# dist-ssr
 *.local
 
 # Editor directories and files
