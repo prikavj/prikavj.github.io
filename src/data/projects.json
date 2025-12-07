@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "API Integration Utility",
+    "description": "A full-stack application for managing and testing API integrations, built with .NET Core and React. Features secure authentication, API endpoint management, real-time testing, and PostgreSQL database integration.",
+    "tech": [".NET Core 9.0", "React 18", "TypeScript", "PostgreSQL", "Entity Framework Core", "JWT Authentication", "Material-UI", "Docker"],
+    "features": [
+      "User authentication with JWT and password validation",
+      "API endpoint management and testing interface",
+      "Real-time response display with status codes and response time",
+      "PostgreSQL database with Entity Framework Core",
+      "Docker containerization for easy deployment",
+      "Swagger/OpenAPI documentation"
+    ],
+    "period": "2024",
+    "link": "https://github.com/prikavj/api-integration-utility"
+  },
+  {
+    "id": 2,
+    "title": "AutoScale Self-Adaptive System",
+    "description": "A sophisticated self-adaptive system for managing and adapting microservices-based cloud applications following the MAPE-K (Monitor Analyze Plan Execute-Knowledge) adaptation loop. Implements automated scaling and resource management for Kubernetes deployments.",
+    "tech": ["Python", "Kubernetes", "Bash", "MAPE-K Loop", "Cloud Computing", "Microservices"],
+    "features": [
+      "MAPE-K adaptation loop implementation (Monitor, Analyze, Plan, Execute, Knowledge)",
+      "Automated resource scaling for microservices",
+      "Real-time metrics collection and monitoring",
+      "Kubernetes deployment management",
+      "5-minute interval adaptation cycles",
+      "Multi-service support (auth, booking, customer, flight services)"
+    ],
+    "period": "2024",
+    "link": "https://github.com/prikavj/AutoScale-Self-Adaptive-System-for-a-Microservices-Based-Cloud-Application"
+  },
+  {
+    "id": 3,
+    "title": "Phoneme Recognition for CAPT",
+    "description": "Implementation of various deep learning models for phoneme recognition with applications to Computer-Aided Pronunciation Training (CAPT). Explored DNN, RNN, CNN+RNN, and Wav2Vec2 models on the DARPA TIMIT dataset for real-time pronunciation training.",
+    "tech": ["Python", "Deep Learning", "DNN", "RNN", "CNN+RNN", "Wav2Vec2", "Jupyter Notebooks", "Speech Processing"],
+    "features": [
+      "Multiple deep learning model implementations (DNN, RNN, CNN+RNN, Wav2Vec2)",
+      "Computer-Aided Pronunciation Training (CAPT) application",
+      "DARPA TIMIT dataset preprocessing and feature extraction",
+      "Real-time pronunciation training and feedback",
+      "Comprehensive performance analysis and model comparison",
+      "Speech recognition and phoneme classification"
+    ],
+    "period": "2024",
+    "link": "https://github.com/prikavj/Phoneme-Recognition-and-its-Applications-in-Computer-Aided-Pronunciation-Training"
+  },
+  {
+    "id": 4,
+    "title": "Furhat Conversational System",
+    "description": "Building an LLM-driven conversational system for the Furhat social robot to help newcomers adapt to the Canadian job market. Focused on multimodal interaction and contextual reasoning.",
+    "tech": ["LLM", "Furhat Robot", "Dialog Management", "Multimodal Interaction", "Python"],
+    "features": [
+      "LLM-powered conversational system",
+      "Multimodal interaction design",
+      "Context-aware reasoning",
+      "Job market adaptation support"
+    ],
+    "period": "2025 – Present"
+  },
+  {
+    "id": 5,
+    "title": "IngreCheck",
+    "description": "Built an OCR + RAG-based dietary compliance tool integrating Amazon Textract and LangChain. Hosted on AWS (EC2, ASG, ELB, S3) with CloudWatch monitoring. Provided real-time dietary restriction alerts from extracted ingredients.",
+    "tech": ["AWS", "Amazon Textract", "OCR", "LangChain", "RAG", "Python", "React"],
+    "features": [
+      "OCR-based ingredient extraction using Amazon Textract",
+      "RAG pipeline for dietary compliance analysis",
+      "AWS cloud deployment (EC2, ASG, ELB, S3)",
+      "Real-time dietary restriction alerts",
+      "CloudWatch monitoring"
+    ],
+    "period": "2024"
+  },
+  {
+    "id": 6,
+    "title": "QT Robot Therapy App",
+    "description": "Developed a real-time therapy web application for the QT Robot using Flask, WebSockets, JavaScript, and multithreading. Integrated speech analysis using Librosa and Praat.",
+    "tech": ["Flask", "WebSockets", "Python", "JavaScript", "Multithreading", "Librosa", "Praat", "QT Robot"],
+    "features": [
+      "Real-time therapy session management",
+      "WebSocket-based communication",
+      "Speech data analysis (pitch, pauses, speech rate)",
+      "Multithreaded architecture",
+      "Integration with Speech-Language Pathologists workflow"
+    ],
+    "period": "2023–2024"
+  }
+]

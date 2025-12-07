@@ -1,0 +1,14 @@
+{
+  "summary": "I am an innovative problem-solver dedicated to driving societal impact through cutting-edge research and scalable software systems. With a strong foundation in software development, human-robot interaction, and interdisciplinary applied AI research, I specialize in building robust, user-centric systems that bridge technology with real-world use cases. My work spans social robotics, full-stack engineering, AI systems, and large-scale software design.\n\nAt the Social and Intelligent Robotics Research Lab (SIRRL), I build software applications for robots in speech therapy, integrating conversational AI, speech data analysis, and interactive system design to enhance therapeutic effectiveness. At the Vector Institute, I contributed to applied AI programs through RAG pipeline development, agentic AI workflows, and delivery execution for 25+ startups.\n\nBefore that, I spent 5 years at HPE Aruba as a Software Engineer, delivering secure, large-scale backend systems and contributing to feature releases impacting thousands of enterprise clients. I enjoy building meaningful technology—AI tools, robotics systems, backend platforms, and products that help real people.",
+  "skills": {
+    "Backend": ["Python", "Java", "JavaScript"],
+    "Frontend": ["JavaScript", "React", "HTML", "CSS"],
+    "AI/ML & LLMs": ["LangChain", "LangGraph", "RAG", "Agentic AI", "TensorFlow", "Keras", "scikit-learn"],
+    "Data Technologies": ["PostgreSQL", "MongoDB", "Redis", "Apache Kafka", "Weaviate", "Pinecone", "FAISS"],
+    "Cloud & DevOps": ["AWS", "Azure", "Docker", "Kubernetes", "Jenkins", "Git"],
+    "Testing": ["JUnit", "PyTest"],
+    "Frameworks": ["FastAPI", "Flask", "React", "Node.js"],
+    "Tools": ["WebSockets", "REST APIs", "Librosa", "Praat"],
+    "Research": ["Human–Robot Interaction (HRI)", "User Studies", "Machine Learning", "Artificial Intelligence"]
+  }
+}

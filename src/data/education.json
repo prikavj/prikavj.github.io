@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "degree": "MASc, Electrical and Computer Engineering",
+    "institution": "University of Waterloo",
+    "period": "2023–2025",
+    "location": "Waterloo, Ontario, Canada",
+    "grade": "93.8/100"
+  },
+  {
+    "id": 2,
+    "degree": "Bachelor of Engineering, Information Science",
+    "institution": "R.V. College of Engineering",
+    "period": "2014–2018",
+    "location": "Bangalore, India",
+    "grade": "9.03/10"
+  }
+]
+

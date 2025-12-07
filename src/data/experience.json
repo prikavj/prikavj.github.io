@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "company": "Social and Intelligent Robotics Research Lab",
+    "position": "Research Associate",
+    "period": "Oct 2025 – Present",
+    "location": "University of Waterloo",
+    "image": "/images/companies/sirrl.avif",
+    "bullets": [
+      "Developing an LLM-powered conversational system for the Furhat social robot to help newcomers adapt to the Canadian job market",
+      "Integrating dialog management, multimodal interaction, and context-aware reasoning"
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Vector Institute",
+    "position": "Applied AI Program Design & Delivery Intern",
+    "period": "Jan 2025 – Jul 2025",
+    "location": "Toronto, ON",
+    "image": "/images/companies/uwaterloo.jpeg",
+    "bullets": [
+      "Developed Retrieval-Augmented Generation (RAG) pipelines using the Weaviate vector database, reducing retrieval latency by 20%",
+      "Built agentic AI workflows using the ReAct framework for scalable PoC prototyping during Vector AI bootcamps",
+      "Supported 5 applied AI programs with 20+ industry partners by coordinating logistics, technical curriculum, and execution",
+      "Drove delivery in the DaRMoD project, managing recruitment, stakeholder engagement, and execution for 25+ SMEs and startups",
+      "Ensured 100% on-time milestone delivery aligned with implementation goals"
+    ]
+  },
+  {
+    "id": 3,
+    "company": "Social and Intelligent Robotics Research Lab (SIRRL)",
+    "position": "Graduate Researcher",
+    "period": "May 2023 – Apr 2025",
+    "location": "University of Waterloo",
+    "image": "/images/companies/sirrl.avif",
+    "bullets": [
+      "Designed and executed 3 user studies (180+ participants) on AI-driven speech therapy with social robots",
+      "Applied both quantitative (LME regression) and qualitative (grounded theory, thematic analysis) research methods",
+      "Developed a real-time therapy application for the QT Robot using Python Flask, JavaScript, WebSockets, and multithreading",
+      "Analyzed speech data using Librosa and Praat for pitch, pauses, and speech rate",
+      "Collaborated closely with Speech-Language Pathologists and robot platform vendors",
+      "Published work at IEEE RO-MAN 2024 and ICSR 2024; received RO-MAN Student Travel Grant"
+    ]
+  },
+  {
+    "id": 4,
+    "company": "HPE Aruba Networking",
+    "position": "Software Engineer II",
+    "period": "Apr 2021 – Dec 2022",
+    "location": "Santa Clara, CA",
+    "bullets": [
+      "Led 5 major feature releases for ClearPass Policy Manager (CPPM), enhancing modules like Certificate Store, Role Mappings, Agentless OnGuard, and Compliance Reports",
+      "Implemented security improvements reducing vulnerabilities by 25% (e.g., mitigating SQL and CLI injection)",
+      "Delivered features for secure authentication, service templates, and role-based authorization",
+      "Mentored interns and new hires",
+      "Tech stack: Java, Python, JavaScript, Spring Framework, REST APIs, DWR, AJAX, PostgreSQL"
+    ]
+  },
+  {
+    "id": 5,
+    "company": "HPE Aruba Networking",
+    "position": "Software Engineer I",
+    "period": "Jul 2018 – Apr 2021",
+    "location": "Santa Clara, CA",
+    "bullets": [
+      "Delivered 7 production features and resolved 160+ bugs, improving stability for 3,500+ enterprise clients",
+      "Built and published 10+ REST APIs for CPPM, later showcased by the CEO",
+      "Improved backend performance via SQL optimization and indexing",
+      "Automated CI/CD pipelines using Git, Ant, Jenkins"
+    ]
+  },
+  {
+    "id": 6,
+    "company": "HPE Aruba Networking",
+    "position": "Software Engineering Intern",
+    "period": "Jan 2018 – Jun 2018",
+    "location": "Santa Clara, CA",
+    "bullets": [
+      "Built a Log Analyzer and Parser tool using Python, GoLang, and React",
+      "Integrated into Automation Suite and reduced debugging time by 20%"
+    ]
+  },
+  {
+    "id": 7,
+    "company": "Wipro",
+    "position": "Cybersecurity Intern",
+    "period": "Jun 2016 – Jul 2016",
+    "location": "India",
+    "bullets": [
+      "Collected and analyzed logs using ELK for cybersecurity applications"
+    ]
+  }
+]

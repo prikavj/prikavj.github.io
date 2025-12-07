@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Design Considerations for Applications of Social Robots in the Stuttering Clinic",
+    "authors": "Priyank Avijeet, Shruti Chandra, Smita Misra, Kerstin Dautenhahn",
+    "venue": "International Conference on Social Robotics (ICSR + AI 2024)",
+    "year": "2025",
+    "description": "This study explores the integration of social robots into stuttering therapy sessions for preschoolers. Through interviews and observations with Speech-Language Pathologists (SLPs), the research identifies practical applications and design considerations for human-robot interactions in clinical settings. Key findings suggest that social robots can engage children through interactive games and provide consistent speech models, with interactions being structured and supervised by SLPs.",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-96-3519-1_6"
+  },
+  {
+    "id": 2,
+    "title": "Greeting Preferences in a Hospitality Context: A Cross-Cultural Study with a Social Robot",
+    "authors": "Priyank Avijeet, Pourya Aliasghari, Kerstin Dautenhahn",
+    "venue": "33rd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)",
+    "year": "2024",
+    "description": "A cross-cultural study examining greeting preferences in hospitality contexts using social robots. This research explores how cultural differences influence human-robot interaction preferences, particularly in service-oriented environments.",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10731433"
+  }
+]
