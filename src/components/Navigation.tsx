@@ -55,22 +55,22 @@ export default function Navigation() {
       animate={{ y: 0 }}
       className="fixed top-0 left-0 right-0 z-50 bg-black/30 backdrop-blur-md border-b border-white/10"
     >
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
+      <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
+        <div className="flex flex-wrap items-center justify-between gap-2 py-3 sm:py-0 sm:h-16">
           <button
             onClick={() => scrollToSection('home')}
-            className="text-lg font-semibold gradient-text cursor-pointer hover:opacity-80 transition-opacity"
+            className="text-sm sm:text-base lg:text-lg font-semibold gradient-text cursor-pointer hover:opacity-80 transition-opacity text-left"
           >
             Build, scale, drive impact
           </button>
-          <div className="flex space-x-1">
+          <div className="flex flex-wrap items-center justify-end gap-1">
             {navItems.map((item) => {
               const isActive = activeSection === item.id;
               return (
                 <button
                   key={item.id}
                   onClick={() => scrollToSection(item.id)}
-                  className="relative px-4 py-2 rounded-lg transition-all duration-300"
+                  className="relative px-3 py-2 sm:px-4 rounded-lg transition-all duration-300"
                 >
                   <span
                     className={`relative z-10 ${
@@ -84,13 +84,13 @@ export default function Navigation() {
                   {isActive && (
                     <motion.div
                       layoutId="activeTab"
-                      className="absolute inset-0 bg-gradient-to-r from-sky-500/50 via-cyan-500/50 to-blue-500/50 rounded-lg"
+                      className="absolute inset-0 bg-gradient-to-r from-sky-500/50 via-cyan-500/50 to-blue-500/50 rounded-lg pointer-events-none"
                       transition={{ type: 'spring', bounce: 0.2, duration: 0.6 }}
                     />
                   )}
                   {!isActive && (
                     <motion.div
-                      className="absolute inset-0 rounded-lg opacity-0 hover:opacity-100 bg-gradient-to-r from-sky-500/20 via-cyan-500/20 to-blue-500/20 transition-opacity duration-300"
+                      className="absolute inset-0 rounded-lg opacity-0 hover:opacity-100 bg-gradient-to-r from-sky-500/20 via-cyan-500/20 to-blue-500/20 transition-opacity duration-300 pointer-events-none"
                     />
                   )}
                 </button>
