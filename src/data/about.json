@@ -1,9 +1,8 @@
 {
   "summary": "Software Engineer specializing in scalable backend and AI systems, driven by a passion for building intelligent solutions that move ideas from research to real-world impact. Bringing 5+ years of industry experience, 2+ years of applied AI research, and 3 peer-reviewed publications in Human–Robot Interaction presented at international conferences. Known for rapidly mastering new domains, innovating under ambiguity, and delivering production-ready systems.",
   "skills": {
-    "Core Strengths": ["Agentic AI", "LLM Platforms", "System Monitoring", "Streamlit", "Distributed Systems"],
-    "Backend & Cloud": ["Python", "Java", "JavaScript", "REST APIs", "Spring Framework", "FastAPI", "Flask", "AWS", "Azure", "Docker"],
-    "AI & Research": ["LangChain", "LangGraph", "Claude Agent SDK", "Model Context Protocol (MCP)", "OpenAI APIs", "RAG", "Human–Robot Interaction", "Speech Processing"],
-    "Data & Tools": ["PostgreSQL", "MongoDB", "Redis", "WebSockets", "Librosa", "Praat", "Git", "Jenkins"]
+    "Core Skills": ["Java", "Python", "JavaScript", "Agentic AI", "LLM Systems", "LangChain", "LangGraph", "Full-stack Development", "Scalable Systems", "Distributed Systems"],
+    "Research & Interaction": ["Human-Robot Interaction", "Applied AI Research", "Communication"],
+    "Engineering & Platforms": ["REST APIs", "Spring Framework", "FastAPI", "Flask", "AWS", "Azure", "Docker", "PostgreSQL", "MongoDB", "Redis", "Git", "Jenkins"]
   }
 }
