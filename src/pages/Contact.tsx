@@ -5,7 +5,7 @@ import AnimatedBlob from '../components/AnimatedBlob';
 const socialLinks = [
   {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/in/priyank-avijeet-334418121',
+    url: 'https://www.linkedin.com/in/priyankavijeet-334418121',
     icon: '💼',
     color: 'from-blue-500 to-blue-600',
   },
@@ -16,10 +16,16 @@ const socialLinks = [
     color: 'from-gray-700 to-gray-800',
   },
   {
+    name: 'Portfolio',
+    url: 'https://prikavj.github.io/',
+    icon: '🌐',
+    color: 'from-sky-500 to-cyan-500',
+  },
+  {
     name: 'Email',
     url: 'mailto:priyank.avijeet25@gmail.com',
     icon: '✉️',
-    color: 'from-sky-500 to-cyan-500',
+    color: 'from-purple-500 to-pink-500',
   },
 ];
 
@@ -50,7 +56,7 @@ export default function Contact() {
           Let's connect and collaborate on exciting projects!
         </motion.p>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-6 mb-8">
           {socialLinks.map((link, index) => (
             <motion.a
               key={link.name}
@@ -92,7 +98,7 @@ export default function Contact() {
               <div className="text-3xl">📍</div>
               <div>
                 <h3 className="text-sm font-semibold text-cyan-400 mb-1">Location</h3>
-                <p className="text-gray-300">Waterloo, Ontario, Canada</p>
+                <p className="text-gray-300">Greater Toronto Area, Canada</p>
               </div>
             </div>
           </Card>

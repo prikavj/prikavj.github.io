@@ -1,97 +1,109 @@
 [
   {
     "id": 1,
-    "company": "Social and Intelligent Robotics Research Lab",
-    "position": "Research Associate",
-    "period": "Oct 2025 – Present",
-    "location": "University of Waterloo",
-    "image": "/images/companies/sirrl.avif",
+    "company": "RBC",
+    "position": "Senior AI Engineer",
+    "period": "Apr 2026 – Present",
+    "location": "Toronto, ON",
+    "image": "/images/companies/rbc.jpeg",
     "bullets": [
-      "Developing an LLM-powered conversational system for the Furhat social robot to help newcomers adapt to the Canadian job market",
-      "Integrating dialog management, multimodal interaction, and context-aware reasoning"
+      "Designing agentic workflows using LangChain, LangGraph, Claude Agent SDK, and Model Context Protocol (MCP).",
+      "Architecting and delivering enterprise-scale agentic AI solutions with full accountability for implementation and deployment."
     ]
   },
   {
     "id": 2,
-    "company": "Vector Institute",
-    "position": "Applied AI Program Design & Delivery Intern",
-    "period": "Jan 2025 – Jul 2025",
-    "location": "Toronto, ON",
-    "image": "/images/companies/vector-institute.png",
+    "company": "Social and Intelligent Robotics Research Lab",
+    "position": "Research Associate",
+    "period": "Oct 2025 – Apr 2026",
+    "location": "Waterloo, ON",
+    "image": "/images/companies/sirrl.avif",
     "bullets": [
-      "Developed Retrieval-Augmented Generation (RAG) pipelines using the Weaviate vector database, reducing retrieval latency by 20%",
-      "Built agentic AI workflows using the ReAct framework for scalable PoC prototyping during Vector AI bootcamps",
-      "Supported 5 applied AI programs with 20+ industry partners by coordinating logistics, technical curriculum, and execution",
-      "Drove delivery in the DaRMoD project, managing recruitment, stakeholder engagement, and execution for 25+ SMEs and startups",
-      "Ensured 100% on-time milestone delivery aligned with implementation goals"
+      "Developed a speech-to-speech AI chatbot deployed on a Furhat robot using Python and OpenAI APIs.",
+      "Built asynchronous multithreaded control for concurrent listening and speaking, plus time-aware topic transitions in a 60-participant study."
     ]
   },
   {
     "id": 3,
-    "company": "Social and Intelligent Robotics Research Lab (SIRRL)",
-    "position": "Graduate Researcher",
-    "period": "May 2023 – Apr 2025",
-    "location": "University of Waterloo",
-    "image": "/images/companies/sirrl.avif",
+    "company": "Vector Institute",
+    "position": "Applied AI Program Design and Delivery Intern",
+    "period": "Jan 2025 – Jul 2025",
+    "location": "Toronto, Ontario, Canada",
+    "image": "/images/companies/vector-institute.png",
     "bullets": [
-      "Designed and executed 3 user studies (180+ participants) on AI-driven speech therapy with social robots",
-      "Applied both quantitative (LME regression) and qualitative (grounded theory, thematic analysis) research methods",
-      "Developed a real-time therapy application for the QT Robot using Python Flask, JavaScript, WebSockets, and multithreading",
-      "Analyzed speech data using Librosa and Praat for pitch, pauses, and speech rate",
-      "Collaborated closely with Speech-Language Pathologists and robot platform vendors",
-      "Published work at IEEE RO-MAN 2024 and ICSR 2024; received RO-MAN Student Travel Grant"
+      "Supported 5 AI programs and collaborative projects, coordinating logistics and research for 20+ industry stakeholders.",
+      "Played a pivotal role in the DaRMoD project, leading recruitment, stakeholder engagement, and delivery execution with 25+ SMEs and startups."
     ]
   },
   {
     "id": 4,
-    "company": "HPE Aruba Networking",
-    "position": "Software Engineer II",
-    "period": "Apr 2021 – Dec 2022",
-    "location": "Santa Clara, CA",
-    "image": "/images/companies/hpe-networking.png",
+    "company": "Social and Intelligent Robotics Research Lab",
+    "position": "Graduate Student Researcher",
+    "period": "May 2023 – Apr 2025",
+    "location": "Waterloo, Ontario, Canada",
+    "image": "/images/companies/sirrl.avif",
     "bullets": [
-      "Led 5 major feature releases for ClearPass Policy Manager (CPPM), enhancing modules like Certificate Store, Role Mappings, Agentless OnGuard, and Compliance Reports",
-      "Implemented security improvements reducing vulnerabilities by 25% (e.g., mitigating SQL and CLI injection)",
-      "Delivered features for secure authentication, service templates, and role-based authorization",
-      "Mentored interns and new hires",
-      "Tech stack: Java, Python, JavaScript, Spring Framework, REST APIs, DWR, AJAX, PostgreSQL"
+      "Researched the integration of social robots in speech therapy for individuals who stutter in collaboration with Speech-Language Pathologists.",
+      "Led 3 Human-Robot Interaction studies with 180+ participants using quantitative and qualitative research methods.",
+      "Developed a web application for the QT Robot using Python Flask, JavaScript, WebSockets, and multithreading for real-time therapy sessions."
     ]
   },
   {
     "id": 5,
-    "company": "HPE Aruba Networking",
-    "position": "Software Engineer I",
-    "period": "Jul 2018 – Apr 2021",
-    "location": "Santa Clara, CA",
-    "image": "/images/companies/hpe-networking.png",
+    "company": "University of Waterloo",
+    "position": "Graduate Teaching Assistant",
+    "period": "Sep 2023 – Dec 2024",
+    "location": "Waterloo, ON",
+    "image": "/images/companies/uwaterloo.jpeg",
     "bullets": [
-      "Delivered 7 production features and resolved 160+ bugs, improving stability for 3,500+ enterprise clients",
-      "Built and published 10+ REST APIs for CPPM, later showcased by the CEO",
-      "Improved backend performance via SQL optimization and indexing",
-      "Automated CI/CD pipelines using Git, Ant, Jenkins"
+      "Supported courses including ECE 150, ECE 657, and ECE 406 through tutorials, exam oversight, and student support.",
+      "Facilitated labs and occasionally delivered lectures for programming and intelligent systems courses."
     ]
   },
   {
     "id": 6,
     "company": "HPE Aruba Networking",
-    "position": "Software Engineering Intern",
-    "period": "Jan 2018 – Jun 2018",
-    "location": "Santa Clara, CA",
+    "position": "Software Engineer II",
+    "period": "Apr 2021 – Dec 2022",
+    "location": "Bengaluru, Karnataka, India",
     "image": "/images/companies/hpe-networking.png",
     "bullets": [
-      "Built a Log Analyzer and Parser tool using Python, GoLang, and React",
-      "Integrated into Automation Suite and reduced debugging time by 20%"
+      "Led 5 major feature releases for ClearPass Policy Manager, enhancing security and policy modules for enterprise clients.",
+      "Implemented secure authentication, role-based authorization, and vulnerability mitigation improvements across the platform."
     ]
   },
   {
     "id": 7,
+    "company": "HPE Aruba Networking",
+    "position": "Software Engineer I",
+    "period": "Jul 2018 – Apr 2021",
+    "location": "Bengaluru, Karnataka, India",
+    "image": "/images/companies/hpe-networking.png",
+    "bullets": [
+      "Delivered 7 major feature releases and resolved 160+ bugs, improving stability for 3,000+ clients.",
+      "Built and documented 10+ REST APIs for CPPM, supporting integration and third-party customization."
+    ]
+  },
+  {
+    "id": 8,
+    "company": "HPE Aruba Networking",
+    "position": "Intern",
+    "period": "Jan 2018 – Jun 2018",
+    "location": "Bengaluru Area, India",
+    "image": "/images/companies/hpe-networking.png",
+    "bullets": [
+      "Designed and developed a Log Analyzer and Parser tool using Python, Go, and React for the automation suite."
+    ]
+  },
+  {
+    "id": 9,
     "company": "Wipro",
-    "position": "Cybersecurity Intern",
+    "position": "Intern",
     "period": "Jun 2016 – Jul 2016",
-    "location": "India",
+    "location": "Bengaluru, India",
     "image": "/images/companies/wipro.png",
     "bullets": [
-      "Collected and analyzed logs using ELK for cybersecurity applications"
+      "Gained hands-on experience with ELK for log collection and cybersecurity analysis."
     ]
   }
 ]
