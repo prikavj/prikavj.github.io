@@ -14,7 +14,8 @@
     "authors": "Priyank Avijeet, Kerstin Dautenhahn",
     "venue": "International Conference on Social Robotics (ICSR)",
     "year": "2024",
-    "description": "This project investigates how technology-guided breathing practices, with and without a social robot, can support emotional wellbeing and user engagement in HRI scenarios."
+    "description": "This project investigates how technology-guided breathing practices, with and without a social robot, can support emotional wellbeing and user engagement in HRI scenarios.",
+    "link": "https://dl.acm.org/doi/full/10.1145/3772318.3790706"
   },
   {
     "id": 3,
@@ -22,6 +23,7 @@
     "authors": "Priyank Avijeet, Shruti Chandra, Smita Misra, Kerstin Dautenhahn",
     "venue": "International Conference on Social Robotics (ICSR + AI 2024)",
     "year": "2025",
-    "description": "This study explores the integration of social robots into stuttering therapy and outlines design considerations for clinical deployment, human supervision, and child-centered interaction."
+    "description": "This study explores the integration of social robots into stuttering therapy and outlines design considerations for clinical deployment, human supervision, and child-centered interaction.",
+    "link": "https://link.springer.com/chapter/10.1007/978-981-96-3519-1_6"
   }
 ]
